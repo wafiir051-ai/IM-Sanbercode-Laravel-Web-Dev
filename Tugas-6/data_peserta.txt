@@ -1,6 +1,0 @@
-Data Peserta Sanbercode Bootcamp Laravel Web Dev
-
-Nama: Waffir Hasan Alkamiil
-Email: wafiir051@smp.belajar.id
-Akun Gitlab/Github: wafiir051-ai
-Akun Telegram: @kamil_md09
